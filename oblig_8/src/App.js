@@ -11,6 +11,7 @@ import Layout from './styles/styled/Layout'
 function App() {
   // Write JavaScript, use Hooks, add state and more
 
+  
   const [movie, setMovie] = useState('')
   const [actors, setActors] = useState('')
 
